@@ -4,3 +4,6 @@
 [submodule "ml-workers"]
 	path = ml-workers
 	url = https://github.com/Lexico7890/ml-workers.git
+[submodule "frontend-customer"]
+	path = frontend-customer
+	url = https://github.com/Lexico7890/frontend-customer.git
